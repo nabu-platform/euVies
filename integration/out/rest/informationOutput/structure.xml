@@ -1,0 +1,21 @@
+<structure name="anonymous">
+    <field name="isValid" type="java.lang.Boolean"/>
+    <field name="requestDate" type="java.util.Date"/>
+    <field name="userError" type="java.lang.String"/>
+    <field name="name" type="java.lang.String"/>
+    <field name="address" type="java.lang.String"/>
+    <field name="requestIdentifier" type="java.lang.String"/>
+    <field name="vatNumber" type="java.lang.String"/>
+    <structure name="viesApproximate">
+        <field name="name" type="java.lang.String"/>
+        <field name="street" type="java.lang.String"/>
+        <field name="postalCode" type="java.lang.String"/>
+        <field name="city" type="java.lang.String"/>
+        <field name="companyType" type="java.lang.String"/>
+        <field name="matchName" type="java.lang.Long"/>
+        <field name="matchStreet" type="java.lang.Long"/>
+        <field name="matchPostalCode" type="java.lang.Long"/>
+        <field name="matchCity" type="java.lang.Long"/>
+        <field name="matchCompanyType" type="java.lang.Long"/>
+    </structure>
+</structure>

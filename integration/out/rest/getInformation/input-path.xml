@@ -1,0 +1,4 @@
+<structure name="path">
+    <field name="country" type="java.lang.String"/>
+    <field name="vat" type="java.lang.String"/>
+</structure>

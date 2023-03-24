@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<restClient>
+    <method>GET</method>
+    <path>/taxation_customs/euVies/rest-api/ms/{country}/vat/{vat}</path>
+    <output>.vies.integration.out.rest.informationOutput</output>
+    <host>ec.europa.eu</host>
+    <secure>true</secure>
+    <lenient>true</lenient>
+    <ignoreRootIfArrayWrapper>true</ignoreRootIfArrayWrapper>
+</restClient>

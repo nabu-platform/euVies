@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.wsdl.client.WSDLClientManager" created="2023-03-24T08:53:52.433+01:00" lastModified="2023-03-24T08:54:12.171+01:00" leaf="false" version="3">
+    <environmentId>apollo</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+</node>
